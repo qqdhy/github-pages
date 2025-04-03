@@ -1,4 +1,16 @@
 # MackBook Homebrew
+
+## Brew Commands
+```
+brew list
+brew info [app]
+brew install [app]
+brew upgrade [app]
+brew update
+brew doctor
+brew cleanup
+```
+
 ## Installed Software
 ### Formulae
 - aom
