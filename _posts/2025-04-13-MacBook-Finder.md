@@ -2,7 +2,7 @@
 
 ## Keep folders on top
 
-![Keep folders on top](Mac.Finder.Settings.Advanced.KeepFoldersOnTop.png)
+![Keep folders on top](./img/Mac.Finder.Settings.Advanced.KeepFoldersOnTop.png)
 
 
 
