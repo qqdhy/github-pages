@@ -1,8 +1,8 @@
 # 清泉的花园
 
-## Programs
+## Dev
 
 ### MacOS
 
-[MacBook Finder](Programs/OS/MacOS/MacBook.Finder.md)
+[MacBook Finder](Dev/OS/MacOS/MacBook.Finder.md)
 
