@@ -4,5 +4,11 @@
 
 ### MacOS
 
-[MacBook Finder](Dev/OS/MacOS/MacBook.Finder.md)
+[Finder](Dev/OS/MacOS/MacBook.Finder.md)
+
+## Read
+
+### Wisdom
+
+[1.01^365](Read/Wisdom/1.01.md)
 
